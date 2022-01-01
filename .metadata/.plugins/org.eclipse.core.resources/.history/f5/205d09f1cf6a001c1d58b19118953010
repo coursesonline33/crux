@@ -1,0 +1,10 @@
+package basic;
+
+public class E4GCD {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

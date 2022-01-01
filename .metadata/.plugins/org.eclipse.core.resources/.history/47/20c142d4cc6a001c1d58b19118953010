@@ -1,0 +1,15 @@
+package basic;
+
+import java.util.Scanner;
+
+public class E2PrimeNumber {
+	
+	public static Scanner sc;
+	public static int number;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
